@@ -1,6 +1,6 @@
 # React Hooks Hacker News Search
 
-## This project was bootstrapped with Create React App and it uses Google Maps Geocode API.
+## This project was bootstrapped with Create React App.
 
 ## Online Demo:
 
